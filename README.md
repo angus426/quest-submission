@@ -16,3 +16,8 @@ pub fun main(): String {
     return HelloWorld.greeting
 }
 ```
+## Result
+16:24:39 
+New Script 
+Result
+{"type":"String","value":"the best"}
