@@ -10,7 +10,7 @@ pub contract JacobTucker {
 ```
 ## Script
 ```
-import HelloWorld from 0x01
+import HelloWorld from 0x03
 
 pub fun main(): String {
     return HelloWorld.greeting
