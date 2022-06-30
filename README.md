@@ -22,9 +22,9 @@ New Script
 Result
 {"type":"String","value":"the best"}
 # Chapter 2 - Day 2
-#1.Explain why we wouldn't call changeGreeting in a script
+## 1.Explain why we wouldn't call changeGreeting in a script
 Ans:Because we call this function on the transaction to modify all things on the blockchain.
-#2.What does the AuthAccount mean in the prepare phase of the transaction?
+## 2.What does the AuthAccount mean in the prepare phase of the transaction?
 Ans:It means who sign this transaction.
-#3.What is the difference between the prepare phase and the execute phase in the transaction?
+## 3.What is the difference between the prepare phase and the execute phase in the transaction?
 Ans:We need the prepare function than put all things that we want to excute inside it.
