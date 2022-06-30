@@ -42,3 +42,15 @@ pub contract HelloWorld {
     }
 }
 ```
+## Transaction
+```
+import HelloWorld from 0x01
+transaction(userInput: Int){
+prepare(signer: AuthAccount){
+}
+execute{
+HelloWorld.updateMyNumber(newNumber: userInput)
+ }
+}
+```
+
