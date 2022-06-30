@@ -28,3 +28,17 @@ Because we call this function on the transaction to modify all things on the blo
 It means who sign this transaction.
 ## 3.What is the difference between the prepare phase and the execute phase in the transaction?
 We need the prepare function than put all things that we want to excute inside it.
+## Contract
+```
+pub contract HelloWorld {
+    
+    pub var myNumber: Int
+
+    pub fun updateMyNumber(newNumber: Int){
+    self.myNumber = newNumber
+    }   
+    init(){
+        self.myNumber=0
+    }
+}
+```
