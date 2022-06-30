@@ -62,5 +62,17 @@ pub fun main():Int {
   }
   
 ```
+## Result
+```
+16:46:40 
+Script 
+Result
+{"type":"Int","value":"0"}
+16:47:00 
+Script 
+Result
+{"type":"Int","value":"46"}
+```
+
 
 
