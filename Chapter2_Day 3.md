@@ -2,13 +2,13 @@
 ## 1.
 ```
   pub fun main(){
-  var favouriteNumber:[Int]=[4,26,77]
-  log(favouriteNumber[2])
+  var favouritePeople:[String]=["Jason","Mike","Andre"]
+  log(favouritePeople[0])
   }
 ```
 ## Result
-21:58:40 Script 77
-21:58:40 Script Result{"type":"Void"}
+22:01:11 Script "Jason"
+22:01:11 Script Result{"type":"Void"}
 # 2.
 ```
  pub fun main():UInt64{
