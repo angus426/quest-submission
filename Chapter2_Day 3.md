@@ -1,11 +1,14 @@
 # Quests
-# 1.
+## 1.
 ```
   pub fun main(){
   var favouriteNumber:[Int]=[4,26,77]
   log(favouriteNumber[2])
   }
 ```
+## Result
+21:58:40 Script 77
+21:58:40 Script Result{"type":"Void"}
 # 2.
 ```
  pub fun main():UInt64{
