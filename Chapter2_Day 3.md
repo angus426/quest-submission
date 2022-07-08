@@ -19,8 +19,10 @@
 ```
 ## 3.Explain what the force unwrap operator ! does, with an example different from the one I showed you (you can just change the type).
 ## 4.
-## 1)It got a optional type string but we just want the string.
-## 2)It is optional type in the dictionary.
+## 1)
+It got a optional type string but we just want the string.
+## 2)
+It is optional type in the dictionary.
 ## 3)
 ```
  pub fun main():String?{
