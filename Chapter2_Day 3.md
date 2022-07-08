@@ -18,6 +18,14 @@
  }
 ```
 ## 3.Explain what the force unwrap operator ! does, with an example different from the one I showed you (you can just change the type).
+```
+ pub fun main(){
+var Num1: Int? = 77
+var unwrappedNum1: Int = Num1! 
+var Num2: Int? = nil
+var unwrappedNum2: Int = Num2! 
+ }
+ ```
 ## 4.
 ## 1)
 It got a optional type string but we just want the string.
