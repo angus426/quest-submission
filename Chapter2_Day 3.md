@@ -27,11 +27,11 @@ var unwrappedNum2: Int = Num2!
  }
  ```
 ## 4.
-## 1)
+## (1)
 It got a optional type string but we just want the string.
-## 2)
+## (2)
 It is optional type in the dictionary.
-## 3)
+## (3)
 ```
  pub fun main():String{
  let thing:{Address:String}={0x01:"one",0x02:"two",0x03:"three"}
