@@ -25,7 +25,7 @@ It got a optional type string but we just want the string.
 It is optional type in the dictionary.
 ## 3)
 ```
- pub fun main():String?{
+ pub fun main():String{
  let thing:{Address:String}={0x01:"one",0x02:"two",0x03:"three"}
  return thing[0x03]!
  }
